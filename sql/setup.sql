@@ -8,6 +8,6 @@ CREATE table cat (
     age INT NOT NULL
 );
 INSERT INTO cat (name, age) VALUES ('Felix', 4),
-('Tom', 100),
-('Puss in Boots', 30)
+('Garfield', 100),
+('Dutchess', 30)
 ;
